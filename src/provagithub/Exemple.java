@@ -24,4 +24,8 @@ public class Exemple {
     private void metode3(){
         
     }
+    
+    private void fantasma(){
+        
+    }
 }
