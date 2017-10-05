@@ -26,6 +26,6 @@ public class Exemple {
     }
     
     private Object fantasma(){
-        return null;
+        
     }
 }
