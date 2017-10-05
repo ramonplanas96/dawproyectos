@@ -16,4 +16,8 @@ public class Exemple {
     private void metode1(){
             
     }
+    
+    private void metode2(){
+        
+    }
 }
