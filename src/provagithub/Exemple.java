@@ -20,4 +20,8 @@ public class Exemple {
     private void metode2(){
         
     }
+    
+    private void metode3(){
+        
+    }
 }
