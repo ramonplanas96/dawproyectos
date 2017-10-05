@@ -25,7 +25,7 @@ public class Exemple {
         
     }
     
-    private void fantasma(){
-        
+    private Object fantasma(){
+        return null;
     }
 }
