@@ -17,15 +17,16 @@ public class Exemple {
             
     }
     
-    private void metode2(){
+    private Object metode2(){
+        
+        return null;
+    }
+
+    
+    private void fantasma(){
+        Object object = new Object();
         
     }
     
-    private void metode3(){
-        
-    }
     
-    private Object fantasma(){
-        
-    }
 }
